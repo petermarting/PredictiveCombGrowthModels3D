@@ -8,7 +8,9 @@ The repository consists of three parts - the data (containing comb images and po
 
 Data
 
-CombMaskArray.npy is a large numpy array containing all comb images from all colonies at all timepoints. Empty values are "0" and comb values are "2."
+ContolCombMaskArray.npy is a large numpy array containing all comb images from control colonies at all timepoints. Empty values are "0" and comb values are "2."
+
+ShuffledCombMaskArray.npy is a large numpy array containing all comb images from shuffled colonies at all timepoints. Empty values are "0" and comb values are "2."
 
 CombDataframe.csv is a dataframe that include detailed information about each comb. Most importantly for the models: "beeframe" is the frame id, "position" refers to the frame's present position withing the hive box (10 is near the entrance and 1 is at the back), and "inverted" refers to the orientation of the frame (which direction that the frame is facing within the box).
 
