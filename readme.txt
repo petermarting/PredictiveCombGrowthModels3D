@@ -1,6 +1,6 @@
 Welcome to Predictive Comb Growth Models 3D
 
-This is a repository for simulation-based models that predict how Honey bee nests grow in 3 dimension as part of a manuscript by Marting et al. 2023 (submitted to Proc. B.) entitled "Manipulating nest architecture reveals three-dimensional building strategies and colony resilience in honey bees." 
+This is a repository for simulation-based models that predict how Honey bee nests grow in 3 dimension as part of a manuscript by Marting et al. 2023 (DOI: 10.1098/rspb.2022.2565) entitled "Manipulating nest architecture reveals three-dimensional building strategies and colony resilience in honeybees." 
 
 The repository consists of three parts - the data (containing comb images and positional info), the functions (including the predictive models), and the sample notebook (that runs the models and plots the result).
 
